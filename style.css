@@ -19,7 +19,7 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    justify-content:space-around;
+    justify-content:space-evenly;
 }
 
 .break {
@@ -33,6 +33,6 @@
 
 .scoreuser,
 .scorecomp{
-    text-align: center;
+    text-align: match-parent;
 
 }
